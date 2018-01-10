@@ -1,0 +1,11 @@
+#include<stdio.h>
+include<conio.h>
+voidmain()
+{
+intn;
+scanf("%d",&n);
+if((n%2)==0)
+printf("odd");
+else
+printf("even);
+}
