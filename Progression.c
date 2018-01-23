@@ -19,6 +19,6 @@ int main()
         printf("%d+,"i);
     else
         printf("%d=%d,"i,sum);
-   }
+  }
     return 0;
  }
