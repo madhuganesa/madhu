@@ -10,7 +10,7 @@ for(i=0;str[i]!='\0';i++)
 {
 l=l+1;
 }
-printf("the number of characters in the string are%d\n",l);
+printf("the number of characters in the string are %d\n",l);
 for(i=0;i<=l-1;i++)
 {
 if(str[i]=='')
