@@ -3,7 +3,7 @@
 int main()
 {
 int n,i,flag=0;
-printf("enter the positive number:");
+printf("enter the positive integer:");
 scanf("%d",&n);
 for(i=0;i<=2;i++)
 {
@@ -14,7 +14,7 @@ break;
 }
 }
 if(flag==0);
-printf("%d is a prime number.,n");
+printf("%d is a prime number\n);
 return 0;
 }
 
