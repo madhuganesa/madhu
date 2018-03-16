@@ -19,5 +19,5 @@ int main()
 		}
 	}
 	puts(s1);
-  getch();
+  return 0;
 }
